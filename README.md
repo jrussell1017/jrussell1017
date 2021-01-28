@@ -1,6 +1,6 @@
 ### Hi there 👋
 # jrussell1017
-![placeholder name](link here)
+![the matrix](https://techcrunch.com/wp-content/uploads/2014/12/matrix.jpg?w=1390&crop=1)
 <!--
 **jrussell1017/jrussell1017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
