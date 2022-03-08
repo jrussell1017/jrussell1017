@@ -2,7 +2,7 @@
 
 <img src="https://www.ldeo.columbia.edu/~small/Urban/images/ESC_large_ISS006_ISS006-E-.jpg" width="1000" height="300">
 
-- 😄 Pronouns: He/Him
+- 🅿️ Pronouns: He/Him
 - 🌱 I’m currently working on completing my fellowship at Pursuit
 - 🔭 I’m currently working on strengthening my algorithmic skill
 - 📫 How to reach me: JamesRussell1017@gmail.com
