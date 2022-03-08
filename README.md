@@ -8,7 +8,7 @@
 - 📫 How to reach me: JamesRussell1017@gmail.com
 - ⚡ Fun fact: I love to cook and photography!
 
-> Feel free to look around!
+> Feel free to look around 😄!
 
 
 
