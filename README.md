@@ -1,4 +1,4 @@
-# Hello and welcome to James' GitHub! 👋
+# Hello and welcome to My GitHub! 👋
 
 <img src="https://www.ldeo.columbia.edu/~small/Urban/images/ESC_large_ISS006_ISS006-E-.jpg" width="1000" height="300">
 
